@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.brand1 {
+    color: #9aa5b1;
+    font-weight: bold;
+}
+
+#a {
+    color: #9aa5b1;
+}
+
+#b {
+    color: #9aa5b1;
+}
+
+#c {
+    color: #9aa5b1;
+}
+
+#d {
+    color: #9aa5b1;
+}
+
+.bt {
+    color: white;
+    border-color: #4b6cc1;
+    background-color: transparent;
+}
+
+.navs {
+    color: white;
+}
+
+.container1 {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 110%;
+    width: 100%;
+
+}
+
+.button {
+    font-size: 20px;
+    color: white;
+    background-color: #4b6cc1;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 60px;
+    width: 180px;
+}
+
+.p1 {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: #9aa5b1;
+}
+
+.span1 {
+    color: #4b6cc1;
+}
+
+.h1 {
+    font-family: "Roboto";
+    font-size: 60px;
+    color: white;
+}
+
+.column {
+    padding: 50px;
+}
+
+.imgg {
+    height: 40vh;
+    width: 70vw;
+    padding: 20px;
+    margin-left: 20px;
+
+}
+
+
+.container2 {
+    background-color: #323f4b;
+    height: 110vh;
+    width: 80vw;
+    margin: 40px;
+    margin-top: 35px;
+}
+
+.img1 {
+    width: 300px;
+    height: 280px;
+    border-radius: 5px;
+    padding-left: 80px;
+
+}
+
+.para {
+    color: #9aa5b1;
+    font-size: 15px;
+    margin-top: 10px;
+    font-weight: normal;
+    padding: 10px;
+}
+
+.h2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #cced00;
+    margin-top: 50px;
+    padding-left: 30px;
+}
+
+.para1 {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+
+.main-section {
+    background-color: #3e4c59;
+    height: 100%;
+    width: 100%;
+}
+
+.head {
+    color: #cced00;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-top: 45px;
+    padding-left: 20px;
+}
+
+.para3 {
+    color: white;
+    font-size: 55px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding-left: 18px;
+}
+
+.button1 {
+    color: #cced00;
+    background-color: transparent;
+    border-width: 0px;
+}
+
+.img2 {
+    height: 35vh;
+    width: 60vw;
+    padding: 2px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.but {
+    color: #cced00;
+}
+
+.contain {
+    background-color: #323f4b;
+    border-radius: 4px;
+    height: 80vh;
+    margin: 5px;
+
+
+}
+
+.link {
+    color: #cced00;
+}
+
+.head1 {
+    color: #9aa5b1;
+    font-size: 16px;
+    font-family: "Roboto";
+
+}
+
+.para4 {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+
+}
+
+.para5 {
+    color: #9aa5b1;
+    font-size: 25px;
+    font-family: "Roboto";
+
+}
+
+
+.main-container {
+    background-color: #52606d;
+    height: 150vh;
+    padding: 15px;
+}
+
+.main-head {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.main-para {
+    color: white;
+    font-size: 40px;
+}
+
+.head2 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.para6 {
+    color: #9aa5b1;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.sub-main {
+    background-color: #323f4b;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.img3 {
+    height: 80px;
+    width: 80px;
+    padding: 15px;
+    padding-bottom: 10px;
+}
+
+
+.container3 {
+    background-color: #0d2436;
+}
+
+.heading {
+    color: #cced00;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.para7 {
+    color: #9aa5b1;
+    font-size: 10px;
+    padding-left: 5px;
+    padding: 10px;
+
+}
+
+.img4 {
+    height: 90px;
+    width: 90px;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.con {
+    background-color: #001c32;
+    text-align: center;
+}
